@@ -1,0 +1,77 @@
+{
+  "user_1": {
+    "Number of days practiced": 30,
+    "Drink Water": {
+      "days_completed": 19,
+      "days_skipped": 11,
+      "success_rate": 63.33
+    },
+    "Read": {
+      "days_completed": 19,
+      "days_skipped": 11,
+      "success_rate": 63.33
+    }
+  },
+  "user_2": {
+    "Number of days practiced": 30,
+    "Drink Water": {
+      "days_completed": 22,
+      "days_skipped": 8,
+      "success_rate": 73.33
+    },
+    "Read": {
+      "days_completed": 26,
+      "days_skipped": 4,
+      "success_rate": 86.67
+    }
+  },
+  "user_3": {
+    "Number of days practiced": 30,
+    "Drink Water": {
+      "days_completed": 21,
+      "days_skipped": 9,
+      "success_rate": 70.0
+    },
+    "Read": {
+      "days_completed": 27,
+      "days_skipped": 3,
+      "success_rate": 90.0
+    },
+    "Walk 10k Steps": {
+      "days_completed": 21,
+      "days_skipped": 9,
+      "success_rate": 70.0
+    }
+  },
+  "user_4": {
+    "Number of days practiced": 30,
+    "Drink Water": {
+      "days_completed": 22,
+      "days_skipped": 8,
+      "success_rate": 73.33
+    },
+    "Exercise": {
+      "days_completed": 26,
+      "days_skipped": 4,
+      "success_rate": 86.67
+    }
+  },
+  "user_5": {
+    "Number of days practiced": 30,
+    "Exercise": {
+      "days_completed": 23,
+      "days_skipped": 7,
+      "success_rate": 76.67
+    },
+    "Meditate": {
+      "days_completed": 21,
+      "days_skipped": 9,
+      "success_rate": 70.0
+    },
+    "Walk 10k Steps": {
+      "days_completed": 22,
+      "days_skipped": 8,
+      "success_rate": 73.33
+    }
+  }
+}
